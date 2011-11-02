@@ -1,0 +1,238 @@
+# turn 1
+o 9 65 s
+# turn 2
+o 10 65 s
+# turn 3
+o 11 65 e
+# turn 4
+o 11 66 n
+# turn 5
+o 9 65 n # move blocked
+# turn 6
+o 9 65 n # move blocked
+# turn 7
+o 9 65 n # move blocked
+# turn 8
+o 9 65 n # move blocked
+# turn 9
+o 9 65 n # move blocked
+# turn 10
+o 9 65 n # move blocked
+# turn 11
+o 9 65 n # move blocked
+# turn 12
+o 9 65 n # move blocked
+# turn 13
+o 9 65 n # move blocked
+# turn 14
+o 9 65 n # move blocked
+# turn 15
+o 9 65 n # move blocked
+# turn 16
+o 9 65 n # move blocked
+# turn 17
+o 9 65 n # move blocked
+# turn 18
+o 9 65 n # move blocked
+# turn 19
+o 9 65 n # move blocked
+# turn 20
+o 9 65 n # move blocked
+# turn 21
+o 9 65 n # move blocked
+# turn 22
+o 9 65 n # move blocked
+# turn 23
+o 9 65 n # move blocked
+# turn 24
+o 9 65 s
+# turn 25
+o 10 65 s
+# turn 26
+o 11 65 e
+# turn 27
+o 11 66 n
+# turn 28
+o 9 65 w # move blocked
+# turn 29
+o 9 65 w # move blocked
+# turn 30
+o 9 65 w # move blocked
+# turn 31
+o 9 65 w # move blocked
+# turn 32
+o 9 65 w # move blocked
+# turn 33
+o 9 65 w # move blocked
+# turn 34
+o 9 65 w # move blocked
+# turn 35
+o 9 65 w # move blocked
+# turn 36
+o 9 65 w # move blocked
+# turn 37
+o 9 65 w # move blocked
+# turn 38
+o 9 65 w # move blocked
+# turn 39
+o 9 65 w # move blocked
+# turn 40
+o 9 65 w # move blocked
+# turn 41
+o 9 65 w # move blocked
+# turn 42
+o 9 65 w # move blocked
+# turn 43
+o 9 65 w # move blocked
+# turn 44
+o 9 65 w # move blocked
+# turn 45
+o 9 65 w # move blocked
+# turn 46
+o 9 65 w # move blocked
+# turn 47
+o 9 65 w # move blocked
+# turn 48
+o 9 65 w # move blocked
+# turn 49
+o 9 65 w # move blocked
+# turn 50
+o 9 65 w # move blocked
+# turn 51
+o 9 65 w # move blocked
+# turn 52
+o 9 65 w # move blocked
+# turn 53
+o 9 65 w # move blocked
+# turn 54
+o 9 65 w # move blocked
+# turn 55
+o 9 65 w # move blocked
+# turn 56
+o 9 65 w # move blocked
+# turn 57
+o 9 65 w # move blocked
+# turn 58
+o 9 65 w # move blocked
+# turn 59
+o 9 65 w # move blocked
+# turn 60
+o 9 65 w # move blocked
+# turn 61
+o 9 65 w # move blocked
+# turn 62
+o 9 65 w # move blocked
+# turn 63
+o 9 65 w # move blocked
+# turn 64
+o 9 65 w # move blocked
+# turn 65
+o 9 65 w # move blocked
+# turn 66
+o 9 65 w # move blocked
+# turn 67
+o 9 65 w # move blocked
+# turn 68
+o 9 65 w # move blocked
+# turn 69
+o 9 65 w # move blocked
+# turn 70
+o 9 65 w # move blocked
+# turn 71
+o 9 65 w # move blocked
+# turn 72
+o 9 65 w # move blocked
+# turn 73
+o 9 65 w # move blocked
+# turn 74
+o 9 65 w # move blocked
+# turn 75
+o 9 65 w # move blocked
+# turn 76
+o 9 65 w # move blocked
+# turn 77
+o 9 65 w # move blocked
+# turn 78
+o 9 65 w # move blocked
+# turn 79
+o 9 65 w # move blocked
+# turn 80
+o 9 65 w # move blocked
+# turn 81
+o 9 65 w # move blocked
+# turn 82
+o 9 65 w # move blocked
+# turn 83
+o 9 65 w # move blocked
+# turn 84
+o 9 65 w # move blocked
+# turn 85
+o 9 65 w # move blocked
+# turn 86
+o 9 65 w # move blocked
+# turn 87
+o 9 65 w # move blocked
+# turn 88
+o 9 65 w # move blocked
+# turn 89
+o 9 65 w # move blocked
+# turn 90
+o 9 65 w # move blocked
+# turn 91
+o 9 65 w # move blocked
+# turn 92
+o 9 65 w # move blocked
+# turn 93
+o 9 65 w # move blocked
+# turn 94
+o 9 65 w # move blocked
+# turn 95
+o 9 65 w # move blocked
+# turn 96
+o 9 65 w # move blocked
+# turn 97
+o 9 65 w # move blocked
+# turn 98
+o 9 65 w # move blocked
+# turn 99
+o 9 65 w # move blocked
+# turn 100
+o 9 65 w # move blocked
+# turn 101
+o 9 65 w # move blocked
+# turn 102
+o 9 65 w # move blocked
+# turn 103
+o 9 65 w # move blocked
+# turn 104
+o 9 65 w # move blocked
+# turn 105
+o 9 65 w # move blocked
+# turn 106
+o 9 65 w # move blocked
+# turn 107
+o 9 65 w # move blocked
+# turn 108
+o 9 65 w # move blocked
+# turn 109
+o 9 65 w # move blocked
+# turn 110
+o 9 65 w # move blocked
+# turn 111
+o 9 65 w # move blocked
+# turn 112
+o 9 65 w # move blocked
+# turn 113
+o 9 65 w # move blocked
+# turn 114
+o 9 65 w # move blocked
+# turn 115
+o 9 65 w # move blocked
+# turn 116
+o 9 65 s
+# turn 117
+o 10 65 e
+# turn 118
+o 10 66 n
+# turn 119
+o 9 66 w
